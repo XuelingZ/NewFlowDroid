@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="/home/xueling/eclipse-workspace/projects/jar/gexf4j-1.0.0.jar"/>
+	<classpathentry kind="lib" path="/home/xueling/eclipse-workspace/projects/jar/slf4j-api-1.7.5.jar"/>
+	<classpathentry kind="lib" path="/home/xueling/eclipse-workspace/projects/jar/axml-2.0.jar"/>
+	<classpathentry kind="lib" path="/home/xueling/eclipse-workspace/projects/jar/commons-io-2.4.jar"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/soot"/>
+	<classpathentry kind="lib" path="/home/xueling/eclipse-workspace/projects/jar/soot-infoflow-android-classes.jar"/>
+	<classpathentry kind="lib" path="/home/xueling/eclipse-workspace/projects/jar/soot-infoflow-android-classes-sources.jar"/>
+	<classpathentry kind="lib" path="/home/xueling/eclipse-workspace/projects/jar/soot-infoflow-classes.jar"/>
+	<classpathentry kind="lib" path="/home/xueling/eclipse-workspace/projects/jar/soot-infoflow-classes-sources.jar"/>
+	<classpathentry kind="lib" path="/home/xueling/eclipse-workspace/projects/jar/stax2-api-4.0.0.jar"/>
+	<classpathentry kind="lib" path="/home/xueling/eclipse-workspace/projects/jar/trove-3.0.3.jar"/>
+	<classpathentry kind="lib" path="/home/xueling/eclipse-workspace/projects/jar/woodstox-core-asl-4.4.0.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
