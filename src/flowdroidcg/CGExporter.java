@@ -1,5 +1,4 @@
 package flowdroidcg;
-43434343hellohello
 import it.uniroma1.dis.wsngroup.gexf4j.core.EdgeType;
 import it.uniroma1.dis.wsngroup.gexf4j.core.Gexf;
 import it.uniroma1.dis.wsngroup.gexf4j.core.Graph;
@@ -18,7 +17,6 @@ import java.io.FileWriter;
 import java.io.IOException;
 import java.io.Writer;
 import java.util.List;
-dsdsdsds
 public class CGExporter {
     private Gexf gexf;
     private Graph graph;

@@ -17,10 +17,10 @@ import soot.jimple.toolkits.callgraph.Targets;
 import soot.options.Options;
 public class CGGenerator {
     //设置android的jar包目录
-    public final static String jarPath = "/home/xueling/Android/Sdk/platforms/";
+    public final static String jarPath = "/Users/xueling/Desktop/anonymous/flowDroid/android-platforms/";
     //设置要分析的APK文件
-    public final static String apkpath = "/home/xueling/apkAnalysis/APK/";
-    public final static  String CGpath = "/home/xueling/apkAnalysis/callGraph/";
+    public final static String apkpath = "/Users/xueling/Desktop/anonymous/flowDroid/apks/";
+    public final static  String CGpath = "/Users/xueling/Desktop/anonymous/flowDroid/outCallGraph/";
     
     private static Map<String,Boolean> visited = new HashMap<String,Boolean>();      
     public static void main(String[] args){    
